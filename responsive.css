@@ -26,6 +26,8 @@
     }
     .menu-icon {
      visibility:visible;
+     padding-right:10px;
+     padding-top:10px;
     }
     footer {
         text-align: center;
